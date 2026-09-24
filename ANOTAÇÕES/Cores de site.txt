@@ -1,0 +1,46 @@
+width/height: 190px → tamanho que queremos normalmente
+
+min-width/min-height: 150px → não deixa ficar menor que 150px
+
+max-width/max-height: 100% → não deixa ultrapassar o espaço disponível
+
+min = mínimo que pode ter
+max = máximo que pode ter
+
+
+box-sizing: border-box;
+box-sizing: border-box; faz com que o tamanho definido de um elemento já inclua seu padding e sua borda. Isso facilita o controle das dimensões dos elementos e ajuda a evitar que eles ultrapassem o espaço disponível, sendo especialmente útil para criar layouts responsivos.
+
+
+white-space: nowrap;
+white-space: nowrap; mantém o texto sempre em uma única linha, evitando que ele seja quebrado automaticamente.
+
+-------------------------------------------------
+
+
+Para esse site de Eleições 2026, considerando a logo que você está usando, uma paleta com azul, verde, amarelo e branco combina bastante com a identidade visual da imagem sem deixar o site carregado.
+
+🎨 Paleta que eu usaria:
+
+  Uso	              Cor	             Hex
+🔵 Azul principal	  Azul escuro	          #003B7A
+🔵 Azul secundário	  Azul	                  #005CA9
+🟢 Verde	          Verde institucional	  #16854A
+🟡 Amarelo	          Amarelo destaque	      #F2C300
+⚪ Fundo	      Branco	              #FFFFFF
+⚫ Texto	      Cinza muito escuro      #1F2933
+🔘 Fundo secundário	  Cinza claro       	  #F3F5F7
+
+Eu faria aproximadamente assim:
+
+🔵 Azul escuro → header, rodapé e títulos importantes
+
+🔵 Azul → botões e links
+
+🟢 Verde → ações de confirmação/status
+
+🟡 Amarelo → pequenos destaques e ícones
+
+⚪ Branco → fundo principal
+
+⬜ Cinza claro → cards e seções
