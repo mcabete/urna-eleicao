@@ -1,7 +1,6 @@
-Site: tse e do globo
+Fontes:tse, g1, veja, uol
 
-Candidatos a presidencia do Brasil:
-
+Candidatos a presidencia do Brasil Fonte: g1 (https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente.ghtml):
 
 1- Lula (Luiz Inácio Lula da Silva) (PT) – Número 13 (Vice: Geraldo Alckmin (PSB))
 
@@ -28,7 +27,7 @@ Candidatos a presidencia do Brasil:
 12- Augusto Cury (Avante) – Número 70 (Vice: Júlio Delgado (Avalence))
 
 
-CANDIDATOS GOVERNADOR (SP)
+CANDIDATOS GOVERNADOR (SP) Fonte: g1 (https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sp.ghtml):
 
 1- Fernando Haddad (PT) - Número 13 (Vice-governador: Márcio França (PSB))
 
@@ -43,10 +42,83 @@ CANDIDATOS GOVERNADOR (SP)
 6- Vera Lúcia (PSTU) - Número 16 (Vice-governador: Fabio Bosco (PSTU))
 
 
-Candidatos Deputado Federal
+Candidatos Deputado Federal Fonte: Veja (https://veja.abril.com.br/politica/apuracao-eleicoes-2026-sp-1-turno-nacional/):
 
-Candidatos Deputado Estatual
+1- Lucas Pavanato (PL) - Numero: 2211
+2- Erika Hilton (PSOL) - Numero: 5070
+3- Sâmira Bomfim (PSOL) - Numero: 5000
+4- Kim Kataguiri (Missão) - Numero: 1414
+5- Tabata Amaral (PSB) - Numero: 4040
+6- Renato Bolsonaro (PL) - Numero: 2222
+7- Sargento Nantes (PP) - Numero: 1110
+8- Delegado Palumbo (Podemos) - Numero: 2000
+9- Guilherme Cortez (PSOL) - Numero: 5005
+10- Mauricio Neves (PP) - Numero: 1111
+11- Marcio Alvino (PL) - Numero: 2299
+12- Professora Luciene Cavalcante (PSOL) - Numero: 5089
+13- Ana Carolina Oliveira (Podemos) - Numero: 2026
+14- Baleia Rossi (MDB) - Numero: 1515
+15- Luna Zarattini (PT) - Numero: 1302
+16- Marina Helena (Novo) - Numero: 3007
+17- Delegado Bruno Lima (Podemos) - Numero: 2011
+18- Rosana Valle (PL) - Numero: 2227
+19- Renata Abreu (Podemos) - Numero: 2020
+20- Marcos Pereira (Republicanos) - Numero: 1010
 
-Candidatos Senador 1
 
-Candidatos Senador 2
+Candidatos Deputado Estatual Fonte: VEJA e g1 (Veja: https://veja.abril.com.br/politica/apuracao-eleicoes-2026-sp-1-turno-nacional/) (g1: https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/05/veja-a-lista-completa-dos-deputados-estaduais-eleitos-por-sao-paulo.ghtml)
+
+1- EDUARDA CAMPOPIANO (PL) - Numero: 220011
+2- EDUARDO SUPLICY (PT) - Numero: 13133
+3- SOFIA FAVERO (PSOL) - Numero: 50700
+4- CARLOS GIANNAZI (PSOL) - Numero: 50789
+5- PAULA DA BANCADA FEMINISTA (PSOL) - Numero: 50000
+6- GIOVANNI SANCHES (PL) - Numero: 22800
+7- ROGERIO LINS (PODE) - Numero: 20200
+8- TENENTE COIMBRA (PL) - Numero: 22444
+9- RAFA MINATO (MISSÃO) - Numero: 14014
+10- DANILO JOAN (PP) - Numero: 11111
+11- THOMAZ HENRIQUE (PL) - Numero: 22111
+12- EDIANE MARIA (PSOL) - Numero: 50110
+13- LUIZA ERUNDINA (PSOL) - Numero: 50555
+14- DELEGADO OLIM (PP) - Numero: 11777
+15- RODRIGO ASHIUCHI (PL) - Numero: 22000
+16- MONICA DAS PRETAS (PSOL) - Numero: 50900
+17- ITAMAR BORGES (MDB) - Numero: 15300
+18- BRUNA FURLAN (REPUBLICANOS) - Numero: 10010
+19- MARCOS DAMASIO (PL) - Numero: 22222
+20- DANI ALONSO (PL) - Numero: 22322
+
+
+CANDIDATOS A SENADOR EM SÃO PAULO (SÃO DOIS) Fonte: Agência Senado (https://www12.senado.leg.br/noticias/candidatos-2026/sao-paulo) :
+
+1- André do Prado (PL) - Número: 222 - suplentes: 1° - Fernando Godoy -> Partido: PL / 2° - Rute Costa -> Partido: PL
+
+2- Dra Eliana Ferreira (PSTU) - Número: 161 - suplentes: 1°: Claudio Donizete -> Partido: PSTU / 2°: Veruska Tenório -> Partido: PSTU
+
+3- Ednelson Cesaretti (PCO) - Número: 290 - suplentes:
+1°: Carlos Augusto -> Partido: PCO / 2°: André Amado -> Partido: PCO
+
+4- Geraldo Rufino (PODE) - Número: 200 - suplentes: 1°: Luciana Felix -> Partido: PODEMOS / 2°: Jason Albuquerque -> Partido: PODEMOS
+
+5- Guilherme Derrite (PP) - Número: 111 - suplentes: 1°: Vicente Santini -> Partido: Republicanos / 2°: Julio Serson -> Partido: PP
+
+6- Guto Schiavetto (Missão) - Número: 144 - suplentes: 1°: Medon -> Partido: Missão / 2°: Fabio Rodrigues -> Partido: Missão
+
+7- Maíra de Souza (UP) - Número: 808 - suplentes: 1°: Renato Melo -> Partido: UP / 2°: Penha Daolio -> Partido: UP
+
+8- Marcio Alves (UP) - Número: 800 - suplentes: 1°: Manoel Pereira -> Partido: UP / 2°: Allana Mattos -> Partido: UP
+
+9- Marina Silva (REDE) - Número: 180 - suplentes: 1°: Djalma Nery -> Partido: PSOL / 2°: Antonio Neto -> Partido: PDT
+
+10- Petter Maahs (PCB) - Número: 211 - suplentes: 1°: Olga Soares -> Partido: PCB / 2°: Vinicius Jardim -> Partido: PCB
+
+11- Salles (Novo)*Desistiu - Número: 300  - suplentes: 1°: Frederico D'avila -> Partido: Novo / 2°: Ferreira -> Partido: Novo
+
+12- Simone Tebet (PSB) - Número: 400 - suplentes: 1°: Laio Morais -> Partido: PT / 2°: Marcelo Barbieri -> Partido: PDT
+
+13- Soninha Francine (Cidadania) - Número: 232 -suplentes: 1°: Dr. Fabio Lopes -> Partido: Cidadania / 2°: Shell Gomes -> Partido: Cidadania
+
+14- Weller Gonçalves (PSTU) - Número: 160 - suplentes: 1°: Maria Guilherme -> Partido: PSTU / 2°: Bruno Teixeira  -> Partido: PSTU
+
+15- William Teixeira (Agir) - Número: 360 - suplentes: 1°: Toninho Serapião Tubarão -> Partido: Agir / 2°: José Vaz -> Partido: Agir
