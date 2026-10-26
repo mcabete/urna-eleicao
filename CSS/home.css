@@ -65,28 +65,48 @@ header {
 
 }
 
-ul {
-
-    display: flex;
-    flex-direction: row;
-    align-items: end;
-    flex-wrap: wrap;
-    gap: 20px;
-
-    height: 100%;
-
-    list-style: none;
-
+/* menu */
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: block;
 }
 
-ul a {
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
 
-    color: white;
+nav li {
+    position: relative; /* Necessário para alinhar o submenu */
+}
 
-    text-decoration: none;
+.submenuHeader {
 
-    white-space: nowrap;
+    background-color: #003B7A;
 
+    display: none;
+    position: absolute;
+    top: 100%; /* Faz o submenu aparecer logo abaixo do item pai */
+    left: 0;
+
+    min-width: 180px;
+
+    border: 2px solid white;
+
+    flex-direction: column; /* Garante que os itens do submenu fiquem um abaixo do outro */
+}
+
+.submenuHeader a {
+    padding: 10px 20px;
+}
+
+/* 2. Mostra o submenu quando passa o mouse no item pai (li) */
+nav li:hover .submenuHeader {
+    display: flex;
 }
 
 /* Configurações do perfil */

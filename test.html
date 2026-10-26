@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu com Submenu</title>
+    <style>
+        /* Estilos básicos do menu */
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            background-color: #333;
+            display: flex;
+        }
+
+        nav li {
+            position: relative; /* Necessário para alinhar o submenu */
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 15px 20px;
+            display: block;
+        }
+
+        nav a:hover {
+            background-color: #555;
+        }
+
+        /* 1. Esconde o submenu por padrão */
+        .submenu {
+            display: none;
+            position: absolute;
+            top: 100%; /* Faz o submenu aparecer logo abaixo do item pai */
+            left: 0;
+            background-color: #444;
+            min-width: 180px;
+            flex-direction: column; /* Garante que os itens do submenu fiquem um abaixo do outro */
+        }
+
+        .submenu a {
+            padding: 10px 20px;
+        }
+
+        /* 2. Mostra o submenu quando passa o mouse no item pai (li) */
+        nav li:hover .submenu {
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            
+            <!-- Item com Submenu -->
+            <li>
+                <a href="#">Eleições</a>
+                <ul class="submenu">
+                    <li><a href="#">Municipais</a></li>
+                    <li><a href="#">Presidenciais</a></li>
+                    <li><a href="#">Resultados</a></li>
+                </ul>
+            </li>
+            
+            <li><a href="#">Como Votar</a></li>
+            <li><a href="#">Registro</a></li>
+            <li><a href="#">Votar</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </nav>
+
+</body>
+</html>
